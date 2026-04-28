@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Database
+finance.db
+
+# Environment
+.env
+
+# VS Code
+.vscode/
